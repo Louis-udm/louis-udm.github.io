@@ -7,7 +7,7 @@ whereami: index
 #### Bienvenu chez Louis.Zhibin.Lv
 
 ### Profil
-Je suis ingénieur en informatique. J'ai travaillé dans ce domaine pendant 10 ans, je maîtrise Python, Java, SQL, etc.
+Je suis ingénieur en informatique. J'ai travaillé dans ce domaine pendant 10 ans en maîtrisant Python, Java, SQL, etc.
 
 Maintenant, je suis en train d'étudier le programme de Maîtrise en informatique à l'Université de Montréeal au Canada, spécialiste l'Intelligence artificielle.
 

@@ -11,7 +11,7 @@ date: 2017-10-29
 
 ### About me
 
-我在软件行业从业10多年，熟悉java，python，sql，oracle，mule ESB等技术，现在加拿大蒙特利尔大学读人工智能硕士. 
+我在软件行业从业10多年，熟悉java，python，sql，oracle，mule ESB等技术，现在加拿大蒙特利尔大学读信息科学硕士，人工智能方向. 
 
 联系我:
 
@@ -22,7 +22,7 @@ date: 2017-10-29
 
 > Todo list
 
-### parttern recognition 模式识别
+### Parttern recognition 模式识别
 
 > Todo list
 
