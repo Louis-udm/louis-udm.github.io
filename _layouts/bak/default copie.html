@@ -13,6 +13,9 @@
                 <div class="all-75">
                         {{ content }}
                 </div>
+                <div class="all-25 noprint">
+                        {% include category_list.html %}
+                </div>
             </div>
             <div class="column-group">
                 <div class="all-100">
@@ -21,6 +24,7 @@
             </div>
     </div>
     
+    {% include footer.html %}
     </div>
 </body>
 </html>

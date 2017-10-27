@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: About Louis
 whereami: about
 date: 2017-10-29
 ---
@@ -11,14 +11,13 @@ date: 2017-10-29
 
 ### About me
 
-我在软件行业从业10多年，熟悉java，python，sql，oracle，mule ESB等技术，现在加拿大蒙特利尔大学读人工智能硕士. 联系我:
+我在软件行业从业10多年，熟悉java，python，sql，oracle，mule ESB等技术，现在加拿大蒙特利尔大学读人工智能硕士. 
 
-* <i class="fa fa-envelope"></i> [lvzhibin@gmail.com](mailto:lvzhibin@gmail.com)
+联系我:
+
+* <i class="fa fa-envelope"></i> [louis.lv.info@gmail.com](mailto:louis.lv.info@gmail.com)
 * <i class="fa fa-linkedin"></i> <http://louis-udm.github.io>
 
 ### 机器学习
 
 ### Todo list
-
-* 文章显示last modified date
-* 集成plantuml
