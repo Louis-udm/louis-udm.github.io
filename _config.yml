@@ -1,5 +1,5 @@
 exclude: ["local"]
-url: http://rainzhao.com
+url: http://louis-udm.github.io
 permalink: /:categories/:year/:title.html
 markdown: redcarpet
 redcarpet:

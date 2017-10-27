@@ -4,7 +4,7 @@ title: Bienvenu chez Louis
 whereami: index
 ---
 
-#### Bienvenu chez Louis(Zhibin Lu)
+#### Bienvenu chez Louis.Zhibin.Lv
 
 ### Profil
 Je suis ingénieur en informatique. J'ai travaillé dans ce domaine pendant 10 ans, je maîtrise Python, Java, SQL, etc.

@@ -7,7 +7,7 @@ date: 2017-10-29
 
 ### About the site
 
-这是Louis的个人博客站点, 部署在Github Pages上, 主要用于记录个人的一些技术博客.
+这是Louis Lv的个人博客站点, 部署在Github Pages上, 主要用于记录个人的一些技术博客.
 
 ### About me
 
@@ -19,8 +19,10 @@ date: 2017-10-29
 * <i class="fa fa-linkedin"></i> <http://louis-udm.github.io>
 
 ### Machine learning 机器学习
+
 # Todo list
 
 ### parttern recognition 模式识别
+
 # Todo list
 
