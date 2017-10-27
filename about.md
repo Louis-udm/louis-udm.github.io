@@ -18,6 +18,9 @@ date: 2017-10-29
 * <i class="fa fa-envelope"></i> [louis.lv.info@gmail.com](mailto:louis.lv.info@gmail.com)
 * <i class="fa fa-linkedin"></i> <http://louis-udm.github.io>
 
-### 机器学习
+### Machine learning 机器学习
+# Todo list
 
-### Todo list
+### parttern recognition 模式识别
+# Todo list
+
