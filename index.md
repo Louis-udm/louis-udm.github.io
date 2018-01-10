@@ -37,6 +37,7 @@ J'aime nager, jouer au badminton et voyager.
 
 ## Liste d'articles
 1. [git et github commandes](https://github.com/Louis-udm/Blog/blob/master/git-and-github-readme.md)
+1. [Linux commandes](https://github.com/Louis-udm/Blog/blob/master/Linux_command.md)
 4. [Configurer un serveur de jupyter](https://github.com/Louis-udm/Blog/blob/master/jupyter-configur_serveur.md)
 4. [Apprendre jupyter](https://github.com/Louis-udm/Blog/blob/master/jupyter-helloworld.ipynb)
 4. [Raccourcis de jupyter](https://github.com/Louis-udm/Blog/blob/master/jupyter-shortcutkeys.md)
