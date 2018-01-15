@@ -31,8 +31,9 @@ date: 2017-10-29
 4. [Les demonstrations de fondements d'apprentissage machine à l'UdeM 2017-10-05](https://github.com/Louis-udm/ift-labo)
 
 #### Liste d'articles
+1. [Visual Studio Code & Jupyter](https://github.com/Louis-udm/Blog/blob/master/vscode%2Bjupyter.md)
+4. [Linux commands frequents](https://github.com/Louis-udm/Blog/blob/master/Linux_command.md)
 1. [git et github commandes](https://github.com/Louis-udm/Blog/blob/master/git-and-github-readme.md)
-1. [Linux commandes](https://github.com/Louis-udm/Blog/blob/master/Linux_command.md)
 4. [Configurer un serveur de jupyter](https://github.com/Louis-udm/Blog/blob/master/jupyter-configur_serveur.md)
 4. [Apprendre jupyter](https://github.com/Louis-udm/Blog/blob/master/jupyter-helloworld.ipynb)
 4. [Raccourcis de jupyter](https://github.com/Louis-udm/Blog/blob/master/jupyter-shortcutkeys.md)
