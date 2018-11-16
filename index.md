@@ -28,6 +28,9 @@ J'aime nager, jouer au badminton et voyager.
 ## Liste de projets
 
 1. [Des devoirs de Maîtrise en Informatique à l'UdeM](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM)
+2. [Vision TP2-Calibration by using OpenCV 3.4 2018-11-01](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP2-partie6-OpenCV.ipynb)
+2. [Vision TP2-Calibration planair 2018-10-20](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP2-partie7.pdf)
+3. [Vision TP1-Panorama-Homograhie 2018-10-05](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP1_partie4.pdf)
 4. [DL-projet: ICLR2018 Reproducibility Challenge -- Certified Distributional Robustness 2018-05-05](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Assignments%20of%20IFT6135-Representation%20Learning(A%20Deep%20Learning%20Course)/projet-ICLR2018%20Reproducibility%20Challenge(certified-distributional-robustness)/)
 4. [DL-assignment4: GAN & AVE 2018-04-22](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Assignments%20of%20IFT6135-Representation%20Learning(A%20Deep%20Learning%20Course)/assignment4-GAN%26VAE)
 4. [NLP-Le progrès de "Question Answering" 2018-04-12](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Devoirs%20de%20IFT6285-Traitements%20automatique%20des%20langues%20naturelles/TP2-Le%20Progrès%20de%20QA)
