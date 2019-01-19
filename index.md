@@ -28,10 +28,13 @@ J'aime nager, jouer au badminton et voyager.
 ## Liste de projets
 
 1. [Des devoirs de Maîtrise en Informatique à l'UdeM](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM)
+2. [Vision Porject-SLAM: Utiliser caméra monoculaire pour corriger la direction du robot et mesurer la profondeur en temps réel 2019-01-07](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Projet%20de%20IFT6145-SLAM/IFT6145-projet-report-ZhibinLu.pdf)
+2. [PGM Project: Flow-based Generative Models- A Case Study of GLOW 2018-12-22](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Project-PGM-Flow-based%20Generative%20Models-%20A%20Case%20Study%20of%20GLOW/IFT6269_project_report-group9.pdf)
+2. [Vision TP3-3D Reconstruct by Structured light 2018-12-15](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP3-Structured-light-3D-Reconstruct-ZhibinLu.pdf)
 2. [Vision TP2-Calibration by using OpenCV 3.4 2018-11-01](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP2-partie6-OpenCV.ipynb)
-2. [Vision TP2-Calibration planair 2018-10-20](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP2-partie7.pdf)
-3. [Vision TP1-Panorama-Homograhie 2018-10-05](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP1_partie4.pdf)
-4. [DL-projet: ICLR2018 Reproducibility Challenge -- Certified Distributional Robustness 2018-05-05](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Assignments%20of%20IFT6135-Representation%20Learning(A%20Deep%20Learning%20Course)/projet-ICLR2018%20Reproducibility%20Challenge(certified-distributional-robustness)/)
+2. [Vision TP2-Calibration planair 2018-10-20](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP2-partie7-calibration.pdf)
+3. [Vision TP1-Panoramas-Homograhie 2018-10-05](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP1_partie4-panoramas.pdf)
+4. [DL-projet: ICLR2018 Reproducibility Challenge -- Certified Distributional Robustness 2018-05-05](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/project-ICLR2018%20Reproducibility%20Challenge(certified-distributional-robustness)/)
 4. [DL-assignment4: GAN & AVE 2018-04-22](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Assignments%20of%20IFT6135-Representation%20Learning(A%20Deep%20Learning%20Course)/assignment4-GAN%26VAE)
 4. [NLP-Le progrès de "Question Answering" 2018-04-12](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Devoirs%20de%20IFT6285-Traitements%20automatique%20des%20langues%20naturelles/TP2-Le%20Progrès%20de%20QA)
 4. [DL-assignment3: The Neural Turing Machine 2018-04-03](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Assignments%20of%20IFT6135-Representation%20Learning(A%20Deep%20Learning%20Course)/assignment3-NTM)
