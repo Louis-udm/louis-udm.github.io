@@ -20,8 +20,9 @@ date: 2017-10-29
 
 ### Machine learning 机器学习
 
-#### Liste de projets
+## My projects List
 
+1. [NLP - A NER implementation using google BERT model and CRF 2019-02-15](https://github.com/Louis-udm/NER_BERT_CRF)
 1. [Des devoirs de Maîtrise en Informatique à l'UdeM](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM)
 2. [Vision Porject-SLAM: Utiliser caméra monoculaire pour corriger la direction du robot et mesurer la profondeur en temps réel 2019-01-07](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Projet%20de%20IFT6145-SLAM/IFT6145-projet-report-ZhibinLu.pdf)
 2. [PGM Project: Flow-based Generative Models- A Case Study of GLOW 2018-12-22](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Project-PGM-Flow-based%20Generative%20Models-%20A%20Case%20Study%20of%20GLOW/IFT6269_project_report-group9.pdf)
@@ -44,7 +45,7 @@ date: 2017-10-29
 4. [Les demonstrations de fondements d'apprentissage machine à l'UdeM 2017-10-05](https://github.com/Louis-udm/ift-labo)
 
 
-## Liste d'articles
+## Blog
 1. [Python, PyTorch, Numpy, OpenCV, SpaCy, NLTK, etc.](https://github.com/Louis-udm/Blog/blob/master/python_etc_tips.md)
 1. [Visual Studio Code & Jupyter](https://github.com/Louis-udm/Blog/blob/master/vscode%2Bjupyter.md)
 2. [vscode-keyboard-shortcuts-macos.pdf](https://github.com/Louis-udm/Blog/blob/master/vscode-keyboard-shortcuts-macos.pdf)

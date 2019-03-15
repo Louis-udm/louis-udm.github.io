@@ -7,6 +7,12 @@ whereami: index
 #### Bienvenu chez Louis.Zhibin.Lv
 
 ### Profil
+I am a computer engineer. I worked in this field for 7 years while mastering Python, Java, SQL, etc.
+
+Now, I am currently studying the Master of Computer Science program at the University of Montreal in Canada, specializing in Artificial Intelligence.
+
+I like swimming, playing badminton and traveling.
+
 Je suis ingénieur en informatique. J'ai travaillé dans ce domaine pendant 7 ans en maîtrisant Python, Java, SQL, etc.
 
 Maintenant, je suis en train d'étudier le programme de Maîtrise en informatique à l'Université de Montréeal au Canada, spécialiste l'Intelligence artificielle.
@@ -25,8 +31,9 @@ J'aime nager, jouer au badminton et voyager.
 ---
 
 
-## Liste de projets
+## My projects List
 
+1. [NLP - A NER implementation using google BERT model and CRF 2019-02-15](https://github.com/Louis-udm/NER_BERT_CRF)
 1. [Des devoirs de Maîtrise en Informatique à l'UdeM](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM)
 2. [Vision Porject-SLAM: Utiliser caméra monoculaire pour corriger la direction du robot et mesurer la profondeur en temps réel 2019-01-07](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Projet%20de%20IFT6145-SLAM/IFT6145-projet-report-ZhibinLu.pdf)
 2. [PGM Project: Flow-based Generative Models- A Case Study of GLOW 2018-12-22](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Project-PGM-Flow-based%20Generative%20Models-%20A%20Case%20Study%20of%20GLOW/IFT6269_project_report-group9.pdf)
@@ -36,7 +43,7 @@ J'aime nager, jouer au badminton et voyager.
 3. [Vision TP1-Panoramas-Homograhie 2018-10-05](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP1_partie4-panoramas.pdf)
 4. [DL-projet: ICLR2018 Reproducibility Challenge -- Certified Distributional Robustness 2018-05-05](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/project-ICLR2018%20Reproducibility%20Challenge(certified-distributional-robustness)/)
 4. [DL-assignment4: GAN & AVE 2018-04-22](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Assignments%20of%20IFT6135-Representation%20Learning(A%20Deep%20Learning%20Course)/assignment4-GAN%26VAE)
-4. [NLP-Le progrès de "Question Answering" 2018-04-12](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Devoirs%20de%20IFT6285-Traitements%20automatique%20des%20langues%20naturelles/TP2-Le%20Progrès%20de%20QA)
+4. [NLP - Le progrès de "Question Answering" 2018-04-12](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Devoirs%20de%20IFT6285-Traitements%20automatique%20des%20langues%20naturelles/TP2-Le%20Progrès%20de%20QA)
 4. [DL-assignment3: The Neural Turing Machine 2018-04-03](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Assignments%20of%20IFT6135-Representation%20Learning(A%20Deep%20Learning%20Course)/assignment3-NTM)
 4. [DL-assignment2: ImageNet Dog-vs-Cat 2018-03-14](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Assignments%20of%20IFT6135-Representation%20Learning(A%20Deep%20Learning%20Course)/assignment2-ImageNet-Dog-vs-Cat)
 4. [NLP-Séquence de Lemmes Vers Formes de Surface 2018-03-16](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/tree/master/Devoirs%20de%20IFT6285-Traitements%20automatique%20des%20langues%20naturelles/TP1-Séquence%20de%20Lemmes%20Vers%20Formes%20de%20Surface)
@@ -49,7 +56,7 @@ J'aime nager, jouer au badminton et voyager.
 4. [Les demonstrations de fondements d'apprentissage machine à l'UdeM 2017-10-05](https://github.com/Louis-udm/ift-labo)
 
 
-## Liste d'articles
+## Blog
 1. [Python, PyTorch, Numpy, OpenCV, SpaCy, NLTK, etc.](https://github.com/Louis-udm/Blog/blob/master/python_etc_tips.md)
 1. [Visual Studio Code & Jupyter](https://github.com/Louis-udm/Blog/blob/master/vscode%2Bjupyter.md)
 2. [vscode-keyboard-shortcuts-macos.pdf](https://github.com/Louis-udm/Blog/blob/master/vscode-keyboard-shortcuts-macos.pdf)
