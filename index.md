@@ -8,9 +8,9 @@ whereami: index
 #### Bienvenu chez Louis.Zhibin.Lv
 
 ### Profil
-I am a master of computer science graduated from the DIRO(Département d'informatique et de recherche opérationnelle)[https://diro.umontreal.ca/accueil/] of the Université de Montréal, in the direction of Artificial Intelligence. My research tutor is (Jan-yun Nie)[http://rali.iro.umontreal.ca/nie/jian-yun-nie/]. 
+I am a master of computer science graduated from the DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) of the Université de Montréal, in the direction of Artificial Intelligence. My research tutor is [Jan-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/). 
 
-My research recently is the detection of hate speech and offensive language at the (RALI)[http://rali.iro.umontreal.ca/rali/?q=en] laboratory managed by my professeur. During the laboratory, I proposed the STG-BERT model, which greatly improved the detection performance in the field and reached state-of-the-art. The related paper will be published soon.
+My research recently is the detection of hate speech and offensive language at the [RALI](http://rali.iro.umontreal.ca/rali/?q=en) laboratory managed by my professeur. During the laboratory, I proposed the STG-BERT model, which greatly improved the detection performance in the field and reached state-of-the-art. The related paper will be published soon.
 
 My research interests include Machine Learning, Deep Neural Networks, Representation Learning, Probabilistic Graphical Models, Natural Language Processing, and related algorithms and models. Also, I am proficient in Python, Numpy, Scipy, PyTorch, Scikit-learn, Tensorflow and other technologies.
 
@@ -19,9 +19,9 @@ I am also interested in computer 3D vision, such as 3D reconstruction, SLAM tech
 I like swimming, playing badminton and traveling.
 
 #### Version Français
-Je suis une maîtrise en informatique diplômée du DIRO (Département d'informatique et de recherche opérationnelle)[https://diro.umontreal.ca/accueil/] de l'Université de Montréal, dans le domaine de l'intelligence artificielle. Mon tuteur de recherche est (Jan-yun Nie)[http://rali.iro.umontreal.ca/nie/jian-yun-nie/].
+Je suis une maîtrise en informatique diplômée du DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) de l'Université de Montréal, dans le domaine de l'intelligence artificielle. Mon tuteur de recherche est [Jan-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/).
 
-Mes recherches récentes portent sur la détection des discours de haine et des propos injurieux au laboratoire (RALI)[http://rali.iro.umontreal.ca/rali/fr] géré par mon professeur. Pendant le laboratoire, j'ai proposé le modèle STG-BERT, qui améliorait considérablement les performances de détection sur le terrain et atteignait l'état de la technique. Le document correspondant sera publié prochainement.
+Mes recherches récentes portent sur la détection des discours de haine et des propos injurieux au laboratoire [RALI](http://rali.iro.umontreal.ca/rali/fr) géré par mon professeur. Pendant le laboratoire, j'ai proposé le modèle STG-BERT, qui améliorait considérablement les performances de détection sur le terrain et atteignait l'état de la technique. Le document correspondant sera publié prochainement.
 
 Mes domaines de recherche sont l’apprentissage par machine, les réseaux de neurones profonds, l’apprentissage par représentation, les modèles graphiques probabilistes, le traitement du langage naturel, ainsi que les algorithmes et modèles associés. De plus, je maîtrise les technologies Python, Numpy, Scipy, PyTorch, Scikit-learn, Tensorflow et autres.
 
