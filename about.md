@@ -7,7 +7,7 @@ date: 2019-08-04
 
 ### About the site
 
-这是Louis Lv的个人技术博客, 部署在Github Pages上.
+这是 Zhibin Lv 的个人技术博客, 部署在Github Pages上.
 
 ### About me
 
