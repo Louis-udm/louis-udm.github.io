@@ -5,10 +5,8 @@ whereami: index
 ---
 
 #### Welcome to the Homepage of Louis.Zhibin.Lv
-#### Bienvenu chez Louis.Zhibin.Lv
 
-### Profil
-I am a master of computer science graduated from the DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) of the Université de Montréal, in the direction of Artificial Intelligence. My research tutor is [Jan-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/). 
+I am a master of computer science graduated from the DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) of the Université de Montréal, in the direction of Artificial Intelligence. My research tutor is [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/). 
 
 My research recently is the detection of hate speech and offensive language at the [RALI](http://rali.iro.umontreal.ca/rali/?q=en) laboratory managed by my professeur. During the laboratory, I proposed the STG-BERT model, which greatly improved the detection performance in the field and reached state-of-the-art. The related paper will be published soon.
 
@@ -18,34 +16,37 @@ I am also interested in computer 3D vision, such as 3D reconstruction, SLAM tech
 
 I like swimming, playing badminton and traveling.
 
-#### Version Français
-Je suis une maîtrise en informatique diplômée du DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) de l'Université de Montréal, dans le domaine de l'intelligence artificielle. Mon tuteur de recherche est [Jan-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/).
+#### Bienvenu chez Louis.Zhibin.Lv
 
-Mes recherches récentes portent sur la détection des discours de haine et des propos injurieux au laboratoire [RALI](http://rali.iro.umontreal.ca/rali/fr) géré par mon professeur. Pendant le laboratoire, j'ai proposé le modèle STG-BERT, qui améliorait considérablement les performances de détection sur le terrain et atteignait l'état de la technique. Le document correspondant sera publié prochainement.
+Je suis une maîtrise en informatique diplômée du DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) de l'Université de Montréal, dans le domaine de l'intelligence artificielle. Mon directeur de recherche est [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/).
 
-Mes domaines de recherche sont l’apprentissage par machine, les réseaux de neurones profonds, l’apprentissage par représentation, les modèles graphiques probabilistes, le traitement du langage naturel, ainsi que les algorithmes et modèles associés. De plus, je maîtrise les technologies Python, Numpy, Scipy, PyTorch, Scikit-learn, Tensorflow et autres.
+Mes recherches récentes portent sur la détection des discours de haine et des langages injurieux au laboratoire [RALI](http://rali.iro.umontreal.ca/rali/fr) géré par mon professeur. Pendant le laboratoire, j'ai proposé le modèle STG-BERT, qui améliorait considérablement les performances de détection sur ce sous-domaine et atteignait l'état-de-l'art. L'article de recherche correspondant sera publié prochainement.
 
-Je suis également intéressé par la vision 3D par ordinateur, telle que la reconstruction 3D, la technologie SLAM. J'ai réalisé un projet visant à corriger en temps réel la trajectoire de conduite d'un robot Raspberry Pi à l'aide d'une caméra monoculaire. J'ai aimé ça! Je partagerai le code plus tard.
+Mes recherches interessés sont l’apprentissage machine, les réseaux neuronaux profonds, l’apprentissage de représentations, les modèles graphiques probabilistes, le traitement automatique du langage naturel, ainsi que les algorithmes et modèles associés. De plus, je maîtrise les technologies comme Python, Numpy, Scipy, PyTorch, Scikit-learn, Tensorflow, etc.
+
+Je suis également intéressé par la Vision Tridimensionnelle, telle que la reconstruction 3D, la technologie SLAM. J'ai réalisé un projet visant à corriger en temps réel la trajectoire de conduite d'un robot de Raspberry Pi à l'aide d'une caméra monoculaire. J'ai aimé ça! Je partagerai le code plus tard.
 
 J'aime nager, jouer au badminton et voyager.
 
 
 ---
 
-### Coordonnées:
+#### Coordonnées:
 
 * <i class="fa fa-envelope"></i> [louis.lv.info@gmail.com](mailto:louis.lv.info@gmail.com)
-* <i class="fa fa-linkedin"></i> <http://louis-udm.github.io>
 
 
 ---
 
+## My research
+
+1. Local and Global Attention-aware: GCN embedded Bert for Offensive Language Detection. (Publishing)
+2. [NLP - A NER implementation using google BERT model and CRF 2019-02-15](https://github.com/Louis-udm/NER_BERT_CRF)
+3. [Vision Porject-SLAM: Utiliser caméra monoculaire pour corriger la direction du robot et mesurer la profondeur en temps réel 2019-01-07](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Projet%20de%20IFT6145-SLAM/IFT6145-projet-report-ZhibinLu.pdf)
+
 
 ## My projects List
 
-1. [NLP - A NER implementation using google BERT model and CRF 2019-02-15](https://github.com/Louis-udm/NER_BERT_CRF)
-1. [Des devoirs de Maîtrise en Informatique à l'UdeM](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM)
-2. [Vision Porject-SLAM: Utiliser caméra monoculaire pour corriger la direction du robot et mesurer la profondeur en temps réel 2019-01-07](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Projet%20de%20IFT6145-SLAM/IFT6145-projet-report-ZhibinLu.pdf)
 2. [PGM Project: Flow-based Generative Models- A Case Study of GLOW 2018-12-22](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Project-PGM-Flow-based%20Generative%20Models-%20A%20Case%20Study%20of%20GLOW/IFT6269_project_report-group9.pdf)
 2. [Vision TP3-3D Reconstruct by Structured light 2018-12-15](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP3-Structured-light-3D-Reconstruct-ZhibinLu.pdf)
 2. [Vision TP2-Calibration by using OpenCV 3.4 2018-11-01](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6145-Vision%20tridimensionnelle/TP2-partie6-OpenCV.ipynb)
@@ -64,7 +65,7 @@ J'aime nager, jouer au badminton et voyager.
 4. [Rapport de l'implémentation du réseau de neurones MLP par Python 2017-12-04](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6390-Fondements%20de%20l'apprentissage%20machine/Devoir2/Rapport%2Bde%2BIFT6390%2BDevoirs%2B3.pdf)
 4. [Comparer l'estimateur de bayes et parzen par Python 2017-10-14](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Devoirs%20de%20IFT6390-Fondements%20de%20l'apprentissage%20machine/Devoir1/IFT6390%20Devoirs%201%20-%20TP2%20-%20ZhibinLu%20and%20XiaochengLiu.ipynb) 
 4. [Les demonstrations de fondements d'apprentissage machine à l'UdeM 2017-10-05](https://github.com/Louis-udm/ift-labo)
-
+1. [Des devoirs de Maîtrise en Informatique à l'UdeM](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM)
 
 ## Blog
 1. [Python, PyTorch, Numpy, OpenCV, SpaCy, NLTK, etc.](https://github.com/Louis-udm/Blog/blob/master/python_etc_tips.md)
