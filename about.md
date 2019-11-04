@@ -13,7 +13,7 @@ date: 2019-08-04
 
 计算机科学硕士，主修人工智能方向，毕业于蒙特利尔大学DIRO([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/))学院，师从[Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/)。
 
-最近在[RALI](http://rali.iro.umontreal.ca/rali/?q=en)实验室研究对仇恨言论和攻击性语言的自动检测。在实验室研究期间，我提出了STG-BERT模型，它大大提高了这个子领域的检测性能，并达到了最新技术水平。相关论文即将发表。
+最近在[RALI](http://rali.iro.umontreal.ca/rali/?q=en)实验室研究对仇恨言论和攻击性语言的自动检测。在实验室研究期间，我提出了VGCN-BERT模型，并基于此某些发表了一篇论文，它大大提高了这个子领域的检测性能，并达到了最新技术水平。相关论文即将发表。
 
 我的研究兴趣包括机器学习，深度神经网络，表示学习，概率图模型，自然语言处理，以及相关的算法和模型。此外，我精通Python，Numpy，Scipy，PyTorch，Scikit-learn，Tensorflow和其他相关技术。
 
