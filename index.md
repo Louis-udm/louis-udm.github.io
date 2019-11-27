@@ -8,7 +8,7 @@ whereami: index
 
 I am a master of computer science graduated from the DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) of the Université de Montréal, in the direction of Artificial Intelligence. My research tutor is [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/). 
 
-My research recently is the detection of hate speech and offensive language at the [RALI](http://rali.iro.umontreal.ca/rali/?q=en) laboratory managed by my professeur. During the laboratory, I proposed the VGCN-BERT model and writed a paper based on this model, which greatly improved the detection performance in the field and reached state-of-the-art. The related paper will be published soon.
+My research recently is the detection of hate speech and offensive language at the [RALI](http://rali.iro.umontreal.ca/rali/?q=en) laboratory managed by my professeur. During the laboratory, I proposed a new model and writed a paper based on this model, which greatly improved the detection performance in the field and reached state-of-the-art. The related paper will be published soon.
 
 My research interests include Machine Learning, Deep Neural Networks, Representation Learning, Probabilistic Graphical Models, Natural Language Processing, and related algorithms and models. Also, I am proficient in Python, Numpy, Scipy, PyTorch, Scikit-learn, Tensorflow and other technologies.
 
