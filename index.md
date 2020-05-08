@@ -8,7 +8,7 @@ whereami: index
 
 I am a master of computer science graduated from the DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) of the Université de Montréal, in the direction of Artificial Intelligence. My research tutor is [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/). 
 
-My research recently is the detection of hate speech and offensive language at the [RALI](http://rali.iro.umontreal.ca/rali/?q=en) laboratory managed by my professeur. During the laboratory, I proposed a new model and writed a paper based on this model, which greatly improved the detection performance in the field and reached state-of-the-art. The related paper will be published soon.
+My research recently is the detection of hate speech and offensive language at the [RALI](http://rali.iro.umontreal.ca/rali/?q=en) laboratory managed by my professeur. During the laboratory, I proposed a new model and writed a paper based on this model, which greatly improved the detection performance in the field and reached state-of-the-art. The paper, [VGCN-BERT: Augmenting BERT with graph embedding for Text Classification](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_25), is published at the conference of ECIR 2020.
 
 My research interests include Machine Learning, Deep Neural Networks, Representation Learning, Probabilistic Graphical Models, Natural Language Processing, and related algorithms and models. Also, I am proficient in Python, Numpy, Scipy, PyTorch, Scikit-learn, Tensorflow and other technologies.
 
@@ -20,7 +20,7 @@ I like swimming, playing badminton and traveling.
 
 Je suis une maîtrise en informatique diplômée du DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) de l'Université de Montréal, dans le domaine de l'intelligence artificielle. Mon directeur de recherche est [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/).
 
-Mes recherches récentes portent sur la détection des discours de haine et des langages injurieux au laboratoire [RALI](http://rali.iro.umontreal.ca/rali/fr) géré par mon professeur. Pendant le laboratoire, j'ai proposé le modèle VGCN-BERT model et rédigé un article de recherche basé en ce modèle, qui améliorait considérablement les performances de détection sur ce sous-domaine et atteignait l'état-de-l'art. L'article de recherche correspondant sera publié prochainement.
+Mes recherches récentes portent sur la détection des discours de haine et des langages injurieux au laboratoire [RALI](http://rali.iro.umontreal.ca/rali/fr) géré par mon professeur. Pendant le laboratoire, j'ai proposé le modèle VGCN-BERT model et rédigé un article de recherche basé en ce modèle, qui améliorait considérablement les performances de détection sur ce sous-domaine et atteignait l'état-de-l'art. L'article de recherche, [VGCN-BERT: Augmenting BERT with graph embedding for Text Classification](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_25), a été publié par ECIR2020.
 
 Mes recherches interessés sont l’apprentissage machine, les réseaux neuronaux profonds, l’apprentissage de représentations, les modèles graphiques probabilistes, le traitement automatique du langage naturel, ainsi que les algorithmes et modèles associés. De plus, je maîtrise les technologies comme Python, Numpy, Scipy, PyTorch, Scikit-learn, Tensorflow, etc.
 
@@ -40,7 +40,7 @@ J'aime nager, jouer au badminton et voyager.
 
 ## My research
 
-1. Local and Global Attention-aware: GCN embedded Bert for Offensive Language Detection. (Publishing)
+1. [VGCN-BERT: Augmenting BERT with graph embedding for Text Classification](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_25)
 2. [NLP - A NER implementation using google BERT model and CRF 2019-02-15](https://github.com/Louis-udm/NER_BERT_CRF)
 3. [Vision Porject-SLAM: Utiliser caméra monoculaire pour corriger la direction du robot et mesurer la profondeur en temps réel 2019-01-07](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Projet%20de%20IFT6145-SLAM/IFT6145-projet-report-ZhibinLu.pdf)
 

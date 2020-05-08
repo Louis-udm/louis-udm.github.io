@@ -13,7 +13,7 @@ date: 2019-08-04
 
 计算机科学硕士，主修人工智能方向，毕业于蒙特利尔大学DIRO([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/))学院，师从[Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/)。
 
-最近在[RALI](http://rali.iro.umontreal.ca/rali/?q=en)实验室研究对仇恨言论和攻击性语言的自动检测。在实验室研究期间，我提出了一个新模型，并基于此某些发表了一篇论文，它大大提高了这个子领域的检测性能，并达到了最新技术水平。相关论文即将发表。
+最近在[RALI](http://rali.iro.umontreal.ca/rali/?q=en)实验室研究对仇恨言论和攻击性语言的自动检测。在实验室研究期间，我提出了一个新模型，并基于此某些发表了一篇论文，它大大提高了这个子领域的检测性能，并达到了最新技术水平。论文[VGCN-BERT: Augmenting BERT with graph embedding for Text Classification](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_25)已经发表在ECIR2020。
 
 我的研究兴趣包括机器学习，深度神经网络，表示学习，概率图模型，自然语言处理，以及相关的算法和模型。此外，我精通Python，Numpy，Scipy，PyTorch，Scikit-learn，Tensorflow和其他相关技术。
 
@@ -28,7 +28,7 @@ date: 2019-08-04
 
 ### My research
 
-1. Local and Global Attention-aware: GCN embedded Bert for Offensive Language Detection. (Publishing)
+1. [VGCN-BERT: Augmenting BERT with graph embedding for Text Classification](https://link.springer.com/chapter/10.1007/978-3-030-45439-5_25)
 2. [NLP - A NER implementation using google BERT model and CRF 2019-02-15](https://github.com/Louis-udm/NER_BERT_CRF)
 3. [Vision Porject-SLAM: Utiliser caméra monoculaire pour corriger la direction du robot et mesurer la profondeur en temps réel 2019-01-07](https://github.com/Louis-udm/Devoirs-Maitrise-UdeM/blob/master/Projet%20de%20IFT6145-SLAM/IFT6145-projet-report-ZhibinLu.pdf)
 
