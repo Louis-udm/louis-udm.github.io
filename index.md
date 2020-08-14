@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Bienvenu chez Louis
+title: Bienvenu chez Zhibin Lv
 whereami: index
 ---
 
-#### Welcome to the Homepage of Louis.Zhibin.Lv
+#### Welcome to Zhibin (Louis) Lv's Homepage
 
 I am a master of computer science graduated from the DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) of the Université de Montréal, in the direction of Artificial Intelligence. My research tutor is [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/). 
 
@@ -16,7 +16,7 @@ I am also interested in computer 3D vision, such as 3D reconstruction, SLAM tech
 
 I like swimming, playing badminton and traveling.
 
-#### Bienvenu chez Louis.Zhibin.Lv
+#### Bienvenu chez Zhibin (Louis) Lv
 
 Je suis une maîtrise en informatique diplômée du DIRO ([Département d'informatique et de recherche opérationnelle](https://diro.umontreal.ca/accueil/)) de l'Université de Montréal, dans le domaine de l'intelligence artificielle. Mon directeur de recherche est [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/).
 
